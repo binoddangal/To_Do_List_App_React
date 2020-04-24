@@ -1,8 +1,8 @@
 body{
-  background-color: #ececec;
+  background-color: #dbdbdb;
 }
 .App{
-  background-color: #30475e;
+  background-color: #4a6580;
   min-height:500px;
   width: 400px;
   margin: 40px auto;
@@ -35,7 +35,7 @@ h1{
   width: 80px;
   border-radius: 5px;
   border: 0;
-  background-color:rgba(202, 156, 24, 1); 
+  background-color:rgb(223, 170, 24); 
   cursor: pointer;
 }
 #to-do-form button:focus{

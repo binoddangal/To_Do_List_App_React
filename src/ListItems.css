@@ -1,5 +1,5 @@
 .list{
-    color: #fff;
+    color: red;
     width: 300px;
     margin: 20px auto;
     height: 50px;
@@ -26,20 +26,6 @@
 }
 .faicons{
     margin: 0 5px;
-    font-size: 15px;
+    font-size: 25px;
     cursor: pointer;
-}
-.itemsAnim-enter{
-    opacity: 0.01;
-}
-.itemsAnim-enter .itemsAnim-enter-active{
-    opacity: 1;
-    transition: opacity 300ms ease-in
-}
-.itemsAnim-leave{
-    opacity: 1;
-}
-.itemsAnim-leave .itemsAnim-leave-active{
-    opacity: 0.01;
-    transition: opacity 300ms ease-in
 }
