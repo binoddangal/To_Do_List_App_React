@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/To_Do_List_App_React/static/css/main.afc87bf5.chunk.css",
+    "main.css": "/To_Do_List_App_React/static/css/main.0f4a51d0.chunk.css",
     "main.js": "/To_Do_List_App_React/static/js/main.80fc3794.chunk.js",
     "main.js.map": "/To_Do_List_App_React/static/js/main.80fc3794.chunk.js.map",
     "runtime-main.js": "/To_Do_List_App_React/static/js/runtime-main.c36af3f8.js",
@@ -8,16 +8,16 @@
     "static/js/2.d35311ac.chunk.js": "/To_Do_List_App_React/static/js/2.d35311ac.chunk.js",
     "static/js/2.d35311ac.chunk.js.map": "/To_Do_List_App_React/static/js/2.d35311ac.chunk.js.map",
     "index.html": "/To_Do_List_App_React/index.html",
-    "precache-manifest.e79a1d9d6ca39a4d1d0f285b7d6a0391.js": "/To_Do_List_App_React/precache-manifest.e79a1d9d6ca39a4d1d0f285b7d6a0391.js",
+    "precache-manifest.a37aa42ff8622092a5aab1f3e8977e53.js": "/To_Do_List_App_React/precache-manifest.a37aa42ff8622092a5aab1f3e8977e53.js",
     "service-worker.js": "/To_Do_List_App_React/service-worker.js",
-    "static/css/main.afc87bf5.chunk.css.map": "/To_Do_List_App_React/static/css/main.afc87bf5.chunk.css.map",
+    "static/css/main.0f4a51d0.chunk.css.map": "/To_Do_List_App_React/static/css/main.0f4a51d0.chunk.css.map",
     "static/js/2.d35311ac.chunk.js.LICENSE.txt": "/To_Do_List_App_React/static/js/2.d35311ac.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/To_Do_List_App_React/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c36af3f8.js",
     "static/js/2.d35311ac.chunk.js",
-    "static/css/main.afc87bf5.chunk.css",
+    "static/css/main.0f4a51d0.chunk.css",
     "static/js/main.80fc3794.chunk.js"
   ]
 }
